@@ -1,4 +1,4 @@
-<header>
+from webdisplays mod<header>
 
 <!--
   <<< Author notes: Course header >>>
